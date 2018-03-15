@@ -13,9 +13,10 @@ Installation
 How to install :
 
     import project and library
-    Run EXTRACT_TWEETS.py ---> for getting twit from twitter 
+    Run EXTRACT_TWEETS.py ---> for getting twit from twitter
     
-We found a lot of queries in Sentdex tutorial about " where is the file featuresets.pickle ?" . I was not able to upload this to github, but here is the link for the pickle file at my drive: https://drive.google.com/file/d/143r0Z8y69qxvi4sUod21txB3Z9qAegxc/view?usp=sharing
+    
+We found a lot of queries in Sentdex tutorial about " where is the file featuresets.pickle ?" . We were not able to upload this to github, but here is the link for the pickle file at my drive: https://drive.google.com/file/d/143r0Z8y69qxvi4sUod21txB3Z9qAegxc/view?usp=sharing
 
 And here are the screenshots of the analysis: 
 ![capture2](https://user-images.githubusercontent.com/24986485/36205315-6c674058-11b6-11e8-9313-4fba4e2793c8.JPG)
